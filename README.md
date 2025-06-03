@@ -18,27 +18,44 @@
 - 💬 Talk to me about freelancing opportunities in Mobile App Development And UX UI
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white">
-</a>
-<a href="https://cplusplus.com/" target="_blank">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
-<p>
-  <a href="https://flutter.dev/">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a>
+  <a href="https://cplusplus.com/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </a>
-  <a href="https://dart.dev/">
+  <a href="https://www.figma.com/" target="_blank">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  </a>
+  <a href="https://dart.dev/" target="_blank">
     <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   </a>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <a href="https://www.mysql.com/">
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
-  <a href="https://www.postgresql.org/">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-</a>
-</p>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <a href="https://www.java.com/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  </a>
+  <a href="https://www.framer.com/" target="_blank">
+    <img alt="Framer" src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white">
+  </a>
+</div>
+
+
+
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
