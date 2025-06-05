@@ -1,10 +1,12 @@
 <h1> Hello Fellow < Developers/ > & < Curious Clicker/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-
 <p>
   <a href="https://stackoverflow.com/users/30703369/sam-scott"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mobile+App+Developer;And+UX+UI+Designer" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=pixelnotfound404&color=green" alt="Profile views" width="120"/>
+
 
 
    <a href="https://stackoverflow.com/users/30703369/sam-scott" target="_blank">
