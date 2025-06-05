@@ -11,9 +11,6 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=pixelnotfound404&color=green" alt="Profile views" width="120"/>
-
-
 
    <a href="https://stackoverflow.com/users/30703369/sam-scott" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
