@@ -7,9 +7,8 @@
 
 <h2>🧑‍💻 About Me</h2>
 <ul>
-  <li>💼 Specializing in <strong>Mobile App Development</strong> and <strong>UX/UI Design</strong></li>
+  <li>💼 <strong>Mobile App Developer & UX/UI Designer at Excellence Logistics CO., LTD </strong></li>
   <li>🌱 Currently exploring <strong>Spring Boot</strong></li>
-  <li>💬 Available for freelance projects in mobile development and design</li>  
   <li>📫 Contact: <strong>sokuntheasom0@gmail.com</strong></li>
   <li>💼 <a href="https://stackoverflow.com/users/30703369/sam-scott">Stack Overflow Profile</a></li>
 </ul>
