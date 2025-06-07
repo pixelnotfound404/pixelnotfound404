@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Sam Scott</h1>
+  <h1>Hello Fellow < Developer /> and Curious clickers!</h1>
   <p><strong>Mobile App Developer &amp; UX/UI Designer</strong> at Excellence Logistics CO., LTD</p>
 </div>
 
